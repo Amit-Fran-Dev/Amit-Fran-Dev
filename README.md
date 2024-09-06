@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=Amit-Fran-Dev&icon=0&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amittop195@gmail.com) 
+  [![PayPal]([https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/amittop195@gmail.com](https://paypal.me/Lerry07?country.x=IN&locale.x=en_GB)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
